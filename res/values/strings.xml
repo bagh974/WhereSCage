@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Where\'s Cage</string>
+
+    <string name="game_over">Game Over</string>
+    <string name="hall_of_fame">Hall of Fame</string>
+    <string name="player_button">Make me famous!</string>
+    <string name="score_result">Your Score</string>
+    <string name="player_name">Your GamerTag</string>
+    <string name="back">Back</string>
+    <string name="lvl_name">Level : %1$s</string>
+    <string name="mod_1">Noob</string>
+    <string name="mod_2">Geek</string>
+    <string name="mod_3">Roxxor</string>
+</resources>
