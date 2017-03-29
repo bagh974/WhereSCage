@@ -10,6 +10,7 @@ Jeu Android sur le modèle de Où est Charlie?
 3.	Trouver le plus de Nicolas Cage dans le temps imparti
   
 - Affichage du chronomètre pendant la partie: ce chrono est géré dans un **Thread** à part
+- **Zoom** par **pinch** avec déplacement dans l'image
 - Enregistrement des scores: les scores sont enregistrés dans une base **SQLite**
 - Hall of Fame : Affiche les 10 meilleurs scores par niveau.
   Le Hall of Fame est affiché dans une **ListView** dans un **Fragment**
